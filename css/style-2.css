@@ -1,0 +1,77 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: rgba(120,120,120, 0.7);
+	
+}
+.pop-up {
+	width: 800px;
+	height: 600px;
+	background-color: #f5f5f5;
+	margin: 3% auto;
+	padding: 4% 4% 1% 4%;
+	text-align: center;
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	
+	
+	
+	
+}
+
+.pop-up .logo {
+	text-align: center;
+
+}
+.pop-up .close {
+    
+    font-size: 59px;
+    font-weight: 600;
+    line-height: 0;
+    color: #000;
+    text-shadow: 0 1px 0 #000;
+    filter: alpha(opacity=20);
+    opacity: 0.4;
+}
+.pop-up h1 {
+	font-weight: 900;
+	color: #000;
+	padding: 1% ;
+padding-left: 0;
+}
+.pop-up p {
+	font-weight: 600;
+	color: #000;
+	letter-spacing: 2px;
+	line-height: 1.5em;
+	font-size: 18px;
+
+}
+.pop-up form {
+	width: 300px;
+	height: 100px;
+	margin: 6% auto;
+	
+}
+.pop-up form .form-group {
+	width: 100%;
+}
+.pop-up form .form-group .input-group-addon {
+	background-color: #048CDE;
+	color: #fff;
+}
+.pop-up form .btn {
+width: 100%;
+background-color: #048CDE;
+font-weight: 600;
+}
+.partnar-logo {
+	margin: 0 auto;
+	top: 40px;
+	text-align: center;
+	
+}
+.partnar-logo img{
+padding: 0px 10px;
+width: 130px;
+height: 40px;
+}
